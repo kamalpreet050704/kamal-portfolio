@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Profile</title>
+
+    <script>
+        function showProfile() {
+            document.getElementById("profileCard").style.display = "block";
+        }
+    </script>
+</head>
+<body>
+
+    <!-- Button -->
+    <button onclick="showProfile()">Show Profile</button>
+
+    <!-- Profile Info (Hidden initially) -->
+    <div id="profileCard" style="display: none; margin-top: 20px;">
+        
+        <h1>{{ user.name }}</h1>
+
+        <h3>{{ user.job_title }}</h3>
+
+        {% if user.active %}
+            <p>Status: Active</p>
+        {% else %}
+            <p>Status: Offline</p>
+        {% endif %}
+
+    </div>
+
+</body>
+</html>
