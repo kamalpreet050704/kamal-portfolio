@@ -3,3 +3,9 @@ _<img width="1892" height="873" alt="image" src="https://github.com/user-attachm
 
 _**About Section**__
 <img width="1565" height="525" alt="image" src="https://github.com/user-attachments/assets/f462bcfc-1d18-4d5f-b3a5-5317ef0c619a" />
+ 
+_**Skills Section**_
+<img width="1801" height="740" alt="image" src="https://github.com/user-attachments/assets/ec10c404-0abf-4c75-8422-643ab75b5e1f" />
+
+_**Education Section**__
+<img width="1780" height="639" alt="image" src="https://github.com/user-attachments/assets/bc46f168-a793-4205-9231-8aeeba847c30" />
