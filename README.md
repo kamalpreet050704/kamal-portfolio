@@ -14,4 +14,5 @@ _**Experience Section**_
 <img width="1752" height="531" alt="image" src="https://github.com/user-attachments/assets/d509bc44-ac18-49fa-9fc7-1f2fc30356d9" />
 
 _**Contact Section**_
-<img width="1752" height="531" alt="image" src="https://github.com/user-attachments/assets/311fae79-44a4-47b6-adf2-6c3ed233286a" />
+<img width="1721" height="603" alt="image" src="https://github.com/user-attachments/assets/93920558-b613-44c8-865d-7cdb3a6970ab" />
+
