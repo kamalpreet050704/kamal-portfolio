@@ -9,3 +9,6 @@ _**Skills Section**_
 
 _**Education Section**__
 <img width="1780" height="639" alt="image" src="https://github.com/user-attachments/assets/bc46f168-a793-4205-9231-8aeeba847c30" />
+
+_**Experience Section**_
+<img width="1752" height="531" alt="image" src="https://github.com/user-attachments/assets/d509bc44-ac18-49fa-9fc7-1f2fc30356d9" />
