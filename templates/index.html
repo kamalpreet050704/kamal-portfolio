@@ -23,12 +23,16 @@
 
 <!-- HERO -->
 <section id="home" class="hero">
+    <div class="hero-image">
+        <div class="image-ring"></div>
+        <img src="{{ url_for('static', filename='images/profile.jpg') }}" alt="Kamalpreet Kaur">
+    </div>
     <div class="hero-text">
         <h1 class="gradient-text">Kamalpreet Kaur</h1>
         <p class="gradient-text">Python • Flask • Web Developer • Graphic Designer</p>
 
         <!-- Download Resume Button -->
-        <a href="{{ url_for('static', filename='/static/images/resume.pdf') }}" download class="btn">
+        <a href="{{ url_for('static', filename='resume/resume.pdf') }}" download class="btn">
             Download Resume
         </a>
     </div>
